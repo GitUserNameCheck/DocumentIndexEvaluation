@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+httpx==0.28.1
+transformers==4.57.3
+torch==2.9.1+cu128
+accelerate==1.12.0
