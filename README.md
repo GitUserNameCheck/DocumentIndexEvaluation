@@ -10,3 +10,4 @@ This repository contains files to test Document Index using [LongDocUrl](https:/
 1. [MergeQuestionsAndDBData.py](MergeQuestionsAndDBData.py)
 1. [QuestionSystem.py](QuestionSystem.py)
 1. [ExtractAnswers.py](ExtractAnswers.py)
+1. [CalculateAccuracy.py](CalculateAccuracy.py)
